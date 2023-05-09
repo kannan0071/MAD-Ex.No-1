@@ -32,9 +32,11 @@ Program to print the text “Hello World”.
 Developed by:
 Registeration Number :
 */
-```
+``
 
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/119641638/237049468-32e33a7e-951d-4f2f-ad5a-56f0791d913c.png)
+
 
 
 
