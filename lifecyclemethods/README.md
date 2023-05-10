@@ -116,5 +116,10 @@ public class MainActivity extends AppCompatActivity {
 ![Output](https://github.com/suryacse05/Mobile-Application-Development/assets/119641638/72852ce2-e322-4a16-9d7f-d08e3c66ca43)
 
 
+
+
+
+
+
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
