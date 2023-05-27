@@ -26,7 +26,13 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-
+```
+/*
+Program to create and design an android application that draws basic graphical primitives on the screen.
+Developed by: G.Kannan
+Registeration Number : 212221040071
+*/
+```
 activity_main.xml:
 
 ```
